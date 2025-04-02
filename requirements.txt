@@ -1,0 +1,4 @@
+factories>=1.4.1
+scribble>=1.0.0
+xcomposite>=2.0.7
+signalling>=1.0.1
